@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Angel! 👋
 
-<!--
-**AngelMancilla/AngelMancilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity Analyst | Backend Developer | Software Engineer
 
-Here are some ideas to get you started:
+#### 🔒 Cybersecurity Specialist
+#### 💻 Backend Developer (Python, SQL, Databases, Cloud Computing)
+#### 🚀 Software Engineer with a focus on backend and security solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I’m a Software Engineer with a strong focus on backend development and cybersecurity. My expertise lies in designing and building scalable backend systems, while ensuring robust security practices are integrated throughout the development process.
+
+I’m passionate about solving complex technical challenges and building solutions that protect and optimize systems. As I continue my journey in software engineering, I’m deeply committed to refining my skills in backend technologies, database management, and cloud computing while enhancing my proficiency in cybersecurity to safeguard systems and networks.
+
+### 🛠️ Skills & Tools
+* Programming Languages: Python, SQL, JavaScript.
+* Backend Technologies: Flask, Django, Node.js.
+* Databases: MySQL, PostgreSQL, MongoDB.
+* Cloud Computing: AWS, Google Cloud (learning).
+* Cybersecurity: Network Security, SOC Analyst, Blue Team, Threat Analysis, Cryptography and Cyber threat intelligence.
+
+##
+
+#### 🎯 Continue growing as a Software Engineer, Expanding my skills in cybersecurity and coding. 
